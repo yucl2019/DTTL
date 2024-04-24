@@ -1,5 +1,5 @@
 ```markdown
-# Dynamic Weighting Translation Transfer Learning (DTTL) for Imbalanced Medical Image Classification
+Dynamic Weighting Translation Transfer Learning (DTTL) for Imbalanced Medical Image Classification
 
 This repository contains the implementation of the Dynamic Weighting Translation Transfer Learning (DTTL) as described in our paper submitted to the Entropy journal. DTTL addresses key challenges in medical image diagnosis using deep learning, including domain shift and class imbalance, via a novel transfer learning approach.
 
