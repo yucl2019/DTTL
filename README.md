@@ -46,7 +46,7 @@ If you find this work useful for your research, please cite our paper:
 ```
 @article{yourname2024dttl,
   title={Dynamic Weighting Translation Transfer Learning for Imbalanced Medical Image Classification},
-  author={Chenglin Yu},
+  author={C. Yu and H. Peng},
   journal={Entropy},
   year={2024},
   url={https://github.com/yucl2019/DTTL}
@@ -58,5 +58,3 @@ For questions and feedback, please contact [yucl2019@163.com].
 
 Thank you for visiting our project!
 ```
-
-请根据实际情况替换占位符（如您的名字、联络邮箱等）以及调整各部分内容以符合您的项目细节。
